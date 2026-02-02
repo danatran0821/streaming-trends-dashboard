@@ -17,7 +17,7 @@ This project analyzes streaming and media consumption data to surface insights a
 - Focus on visual clarity and storytelling
 
 ## 🚀 Live Demo
-Coming soon.
+https://danatran0821.github.io/streaming-trends-dashboard/
 
 ## 📁 Data Sources
 Publicly available datasets related to streaming and media consumption (e.g., Kaggle, IMDb, or similar open datasets).
